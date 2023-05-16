@@ -21,7 +21,7 @@
 `Containerisation:` **Kubernetes, Docker**  
 `CI/CD:` **CloudBuild, Teamcity**  
 `QA:` **Selenium**  
-`Monitoring:` **Grafana, Prometheus, Alert manager**
+`Monitoring:` **Grafana, Prometheus, Alert manager, Zabbix**
 #
 [<img align="left"  src='https://user-images.githubusercontent.com/113435724/231004004-51e9a937-69fb-48f6-905b-50dd08af5e19.png' alt='web'  width='10%'>]()
 **Reliability and professionalism is our main priority. The value of a house lies in its location, the value of a mind lies in it’s depth, the value of words lies in their reliability. Crouton Digital is your reliable crypto partner. Our team is motivated by the desire to achieve, not by desire to beat others.**
