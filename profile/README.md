@@ -15,6 +15,7 @@
 #
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/we_dark.png"><img alt="About Us" width='10%' align="left" src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/we_light.png"></picture>]()
 <h1>About Us</h1><br/>
+<br/> 
 
 **We are Svetek IT Experts, international team located in USA. Non-custodial staking provider for proof-of-stake networks. Our aim is to provide the highest quality of service. Monitoring 24/7 secure and reliable. We are supporting projects from early stages and helping them to achieve their goals. Writing guides,articles and daily news for our community.**
 
@@ -22,6 +23,7 @@
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/stack_dark.png"><img alt="Tech Stack" width='10%' align="left" src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/stack_light.png"></picture>]()
 
 <h1>Our Tech Stack</h1><br/> 
+<br/> 
 
 `Infrastructure as code:` **Terraform, Ansible**  
 `Backend:` **Go, Python, Node.JS, JAVA**  
