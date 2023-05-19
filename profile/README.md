@@ -38,7 +38,7 @@
 #
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/mainnet_dark.png"><img alt="Mainnet" src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/mainnet_light.png"></picture>]()
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/cardano_dark.png"><img align="left" alt='cardano' width='23%' src="https://raw.githubusercontent.com/Artur-Sg/svetek_readme/master/images/axelar.png"></picture>](https://cexplorer.io/pool/pool1q6lzp5x6tqg04chsxakupgq6x829nsx2dk5w8h043fnajm8d3uj)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/cardano_dark.png"><img align="left" alt='cardano' width='23%' src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/cardano_light.png"></picture>](https://cexplorer.io/pool/pool1q6lzp5x6tqg04chsxakupgq6x829nsx2dk5w8h043fnajm8d3uj)
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/axelar_dark.png"><img alt='axelar' width='23%' src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/axelar_light.png"></picture>](https://www.axelarscan.io/validator/axelarvaloper1vrp9yum9pkdc4dr0n8c47trtx8hwwq8j3wxn5e)
 ___
