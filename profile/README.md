@@ -11,13 +11,18 @@
 [<img src='https://user-images.githubusercontent.com/113435724/230788692-c1974fe3-aaf2-42cb-90a5-75e699ef979d.png' alt='twitter'  width='19.5%'>]
 [<img src='https://user-images.githubusercontent.com/113435724/230788686-c18f685e-f5da-4016-81c9-619142135f7a.png' alt='email'  width='19.5%'>](mailto:crypto@svetek.com)
 [<img src='https://user-images.githubusercontent.com/113435724/230986711-7f73c016-5ee1-4588-9b5b-91fbba898c83.png' alt='web'  width='19.5%'>](https://adaimpulse.club/)
+
 #
-[<img align="left"  src='https://user-images.githubusercontent.com/113435724/231116693-b41e26a2-f403-47e7-8a66-dc6a8dd46c00.png' alt='web'  width='10%'>]()
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/we_dark.png"><img alt="About Us" width='10%' align="left" src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/we_light.png"></picture>]()
+<h1>About Us</h1><br/>
+
 **We are Svetek IT Experts, international team located in USA. Non-custodial staking provider for proof-of-stake networks. Our aim is to provide the highest quality of service. Monitoring 24/7 secure and reliable. We are supporting projects from early stages and helping them to achieve their goals. Writing guides,articles and daily news for our community.**
 
 #
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/113435724/231172135-5a9a2bfe-85db-4966-a7eb-912115e8bd50.png"><img alt="Tech Stack" width='10%' align="left" src="https://raw.githubusercontent.com/Artur-Sg/svetek_readme/master/images/stack.png"></picture>]()
-**Our Tech Stack**<br /> 
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/stack_dark.png"><img alt="Tech Stack" width='10%' align="left" src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/stack_light.png"></picture>]()
+
+<h1>Our Tech Stack</h1><br/> 
+
 `Infrastructure as code:` **Terraform, Ansible**  
 `Backend:` **Go, Python, Node.JS, JAVA**  
 `Front-end:` **HTML5, CSS, JAVASCRIPT, REACT, VueJS**  
@@ -29,17 +34,14 @@
 `QA:` **Selenium**  
 `Monitoring:` **Grafana, Prometheus, Alert manager, Zabbix**
 #
-[<img align="left"  src='https://user-images.githubusercontent.com/113435724/231004004-51e9a937-69fb-48f6-905b-50dd08af5e19.png' alt='web'  width='10%'>]()
-**Reliability and professionalism is our main priority. The value of a house lies in its location, the value of a mind lies in it’s depth, the value of words lies in their reliability. Crouton Digital is your reliable crypto partner. Our team is motivated by the desire to achieve, not by desire to beat others.**
-#
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/113435724/230994953-694dfa78-734a-4b52-b3d9-da987e1765de.png"><img alt="Mainnet" width='45%' src="https://raw.githubusercontent.com/Artur-Sg/svetek_readme/master/images/mainnets.png"></picture>]()
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/mainnet_dark.png"><img alt="Mainnet" src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/mainnet_light.png"></picture>]()
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/113435724/230788175-3ed49d27-f357-417d-9007-ed79ffb2c3a1.png"><img align="left" alt='axelar' width='20%' src="https://raw.githubusercontent.com/Artur-Sg/svetek_readme/master/images/axelar.png"></picture>](https://www.axelarscan.io/validator/axelarvaloper1vrp9yum9pkdc4dr0n8c47trtx8hwwq8j3wxn5e)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/cardano_dark.png"><img align="left" alt='cardano' width='20%' src="https://raw.githubusercontent.com/Artur-Sg/svetek_readme/master/images/axelar.png"></picture>](https://cexplorer.io/pool/pool1q6lzp5x6tqg04chsxakupgq6x829nsx2dk5w8h043fnajm8d3uj)
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/113435724/230788175-3ed49d27-f357-417d-9007-ed79ffb2c3a1.png"><img alt='cardano' width='20%' src="https://raw.githubusercontent.com/Artur-Sg/svetek_readme/master/images/cardano.png"></picture>](https://cexplorer.io/pool/pool1q6lzp5x6tqg04chsxakupgq6x829nsx2dk5w8h043fnajm8d3uj)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/axelar_dark.png"><img alt='axelar' width='20%' src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/axelar_light.png"></picture>](https://www.axelarscan.io/validator/axelarvaloper1vrp9yum9pkdc4dr0n8c47trtx8hwwq8j3wxn5e)
 ___
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/113435724/230994779-3decee31-18a3-458f-a1f6-7c412425da78.png"><img alt="Testnets" width='45%' src="https://raw.githubusercontent.com/Artur-Sg/svetek_readme/master/images/testnets.png"></picture>]()
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/testnet_dark.png"><img alt="Testnets" src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/testnet_light.png"></picture>]()
 
 [<img src='https://user-images.githubusercontent.com/113435724/230788175-3ed49d27-f357-417d-9007-ed79ffb2c3a1.png' alt='axelar'  width='24.5%'>](https://testnet.axelarscan.io/validator/axelarvaloper1gjgvkdnjdm66d2jg7j278w5mmwrje0zwezq6u0)
 [<img src='https://user-images.githubusercontent.com/113435724/230788188-5cdbfade-af45-4ecc-8d3a-d83d16cc8369.png' alt='massa'  width='24.5%'>](https://github.com/svetek)
