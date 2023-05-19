@@ -3,17 +3,18 @@
   </picture>
  </p>
  
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/113435724/230788691-74ac3bf2-b5ad-424c-86a9-f4dad5a0c76b.png"><img alt="Telegram Link" width='19.5%' src="https://raw.githubusercontent.com/Artur-Sg/svetek_readme/master/images/medium.png"></picture>](https://medium.com/@michael_47027)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/113435724/230788690-cbc1327f-7bc9-40ff-b6c5-fbf78182593b.png"><img alt="Medium Link" width='19.5%' src="https://raw.githubusercontent.com/Artur-Sg/svetek_readme/master/images/telegram.png"></picture>](https://t.me/michaels2023)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/113435724/230788692-c1974fe3-aaf2-42cb-90a5-75e699ef979d.png"><img alt="Twitter Link" width='19.5%' src="https://raw.githubusercontent.com/Artur-Sg/svetek_readme/master/images/twitter.png"></picture>](https://twitter.com/MichaelS2023)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/web_dark.png"><img alt="website" align="left" width='18%' src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/web_light.png"></picture>](https://adaimpulse.club/)
+ 
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/mail_dark.png"><img alt="mail" align="left" width='18%' src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/mail_light.png"></picture>](mailto:crypto@svetek.com)
 
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/twitter_dark.png"><img alt="Twitter Link" align="left" width='18%' src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/twitter_light.png"></picture>](https://twitter.com/MichaelS2023)
 
-[<img src='https://user-images.githubusercontent.com/113435724/230788692-c1974fe3-aaf2-42cb-90a5-75e699ef979d.png' alt='twitter'  width='19.5%'>]
-[<img src='https://user-images.githubusercontent.com/113435724/230788686-c18f685e-f5da-4016-81c9-619142135f7a.png' alt='email'  width='19.5%'>](mailto:crypto@svetek.com)
-[<img src='https://user-images.githubusercontent.com/113435724/230986711-7f73c016-5ee1-4588-9b5b-91fbba898c83.png' alt='web'  width='19.5%'>](https://adaimpulse.club/)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/telegram_dark.png"><img alt="Telegram Link" width='18%' src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/telegram_light.png"></picture>](https://t.me/michaels2023)
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/medium_dark.png"><img alt="Medium Link" width='18%' src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/medium_light.png"></picture>](https://medium.com/@michael_47027)
 
 #
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/we_dark.png"><img alt="About Us" width='10%' align="left" src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/we_light.png"></picture>]()
+
 <h1>About Us</h1><br/>
 <br/> 
 
