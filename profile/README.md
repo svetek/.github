@@ -14,6 +14,7 @@
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/medium_dark.png"><img alt="Medium Link" width='17.5%' src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/medium_light.png"></picture>](https://medium.com/@michael_47027)
 
 #
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/we_dark.png"><img alt="About As" width='10%' align="left" src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/we_light.png"></picture>]()
 
 <h1>About Us</h1><br/>
 <br/> 
