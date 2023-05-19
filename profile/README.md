@@ -38,16 +38,25 @@
 #
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/mainnet_dark.png"><img alt="Mainnet" src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/mainnet_light.png"></picture>]()
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/cardano_dark.png"><img align="left" alt='cardano' width='20%' src="https://raw.githubusercontent.com/Artur-Sg/svetek_readme/master/images/axelar.png"></picture>](https://cexplorer.io/pool/pool1q6lzp5x6tqg04chsxakupgq6x829nsx2dk5w8h043fnajm8d3uj)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/cardano_dark.png"><img align="left" alt='cardano' width='23%' src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/cardano_light.png"></picture>](https://cexplorer.io/pool/pool1q6lzp5x6tqg04chsxakupgq6x829nsx2dk5w8h043fnajm8d3uj)
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/axelar_dark.png"><img alt='axelar' width='20%' src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/axelar_light.png"></picture>](https://www.axelarscan.io/validator/axelarvaloper1vrp9yum9pkdc4dr0n8c47trtx8hwwq8j3wxn5e)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/axelar_dark.png"><img alt='axelar' width='23%' src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/axelar_light.png"></picture>](https://www.axelarscan.io/validator/axelarvaloper1vrp9yum9pkdc4dr0n8c47trtx8hwwq8j3wxn5e)
 ___
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/testnet_dark.png"><img alt="Testnets" src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/testnet_light.png"></picture>]()
 
-[<img src='https://user-images.githubusercontent.com/113435724/230788175-3ed49d27-f357-417d-9007-ed79ffb2c3a1.png' alt='axelar'  width='24.5%'>](https://testnet.axelarscan.io/validator/axelarvaloper1gjgvkdnjdm66d2jg7j278w5mmwrje0zwezq6u0)
-[<img src='https://user-images.githubusercontent.com/113435724/230788188-5cdbfade-af45-4ecc-8d3a-d83d16cc8369.png' alt='massa'  width='24.5%'>](https://github.com/svetek)
-[<img src='https://user-images.githubusercontent.com/113435724/230788181-168c5efa-20f0-43a8-9c80-9575c52117e0.png' alt='haqq'  width='24.5%'>](https://haqq.explorers.guru/validator/haqqvaloper1vzqw946xv3lgsvdyw08pkgkqhuennjv48rqdev)
-[<img src='https://user-images.githubusercontent.com/113435724/230788191-4ab1ba99-4916-410f-95df-5fca84946b5b.png' alt='nibiru'  width='24.5%'>](https://nibiru.explorers.guru/validator/nibivaloper1f20ayh6pr2yw4g9n9mr76acmj8cxv3jeeurwsc)
-[<img src='https://user-images.githubusercontent.com/113435724/230788176-a65a3d6e-d93b-47c0-8e48-5a54afb843da.png' alt='celestia'  width='24.5%'>](https://github.com/svetek)
-[<img src='https://user-images.githubusercontent.com/113435724/230788198-da5061cb-4296-4032-ae29-22e3e60cd57d.png' alt='okp4'  width='24.5%'>](https://github.com/svetek)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/masa_dark.png"><img alt='masa' align="left" width='23%' src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/masa_light.png"></picture>]()
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/islamic_coin_dark.png"><img alt='islamic coin' align="left" width='23%' src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/islamic_coin_light.png"></picture>](https://haqq.explorers.guru/validator/haqqvaloper1vzqw946xv3lgsvdyw08pkgkqhuennjv48rqdev)
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/celestia_dark.png"><img alt='celestia' align="left" width='23%' src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/celestia_light.png"></picture>]()
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/massa_dark.png"><img alt='massa' align="left" width='23%' src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/massa_light.png"></picture>]()
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/okp4_dark.png"><img alt='okp4' align="left" width='23%' src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/okp4.png"></picture>]()
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/lava_dark.png"><img alt='lava' align="left" width='23%' src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/lava_light.png"></picture>](https://bd.lavanet.xyz/validators/lava@valoper1q7jyftyahuf66jefc36254rldk6je9xkaaseh4)
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/axelar_dark.png"><img alt='axelar' align="left" width='23%' src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/axelar_light.png"></picture>](https://testnet.axelarscan.io/validator/axelarvaloper1gjgvkdnjdm66d2jg7j278w5mmwrje0zwezq6u0)
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/nibiru_dark.png"><img alt='axelar' align="left" width='23%' src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/nibiru_light.png"></picture>](https://nibiru.explorers.guru/validator/nibivaloper1f20ayh6pr2yw4g9n9mr76acmj8cxv3jeeurwsc)
