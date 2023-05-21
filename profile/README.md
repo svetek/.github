@@ -5,22 +5,28 @@
  
  #
  
-<h1 align="center">We are Svetek<h1/>
+<h1 align="center">We are Svetek</h1>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset=""><img alt="website" width='10%' align="left"  src=""></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset=""><img alt="website" width='10%' align="left"  src=""></picture>
+  
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/web_dark.png"><img alt="website" width='10%' align="left"  src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/web_light.png"></picture>](https://adaimpulse.club/)
  
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/web_dark.png"><img alt="website" width='17.5%' align="left"  src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/web_light.png"></picture>](https://adaimpulse.club/)
- 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/mail_dark.png"><img alt="mail" align="left" width='17.5%' src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/mail_light.png"></picture>](mailto:crypto@svetek.com)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/mail_dark.png"><img alt="mail" align="left" width='10%' src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/mail_light.png"></picture>](mailto:crypto@svetek.com)
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/twitter_dark.png"><img alt="Twitter Link" width='17.5%' align="left" src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/twitter_light.png"></picture>](https://twitter.com/MichaelS2023)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/twitter_dark.png"><img alt="Twitter Link" align="left"  width='10%' align="left" src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/twitter_light.png"></picture>](https://twitter.com/SvetekLLC)
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/telegram_dark.png"><img alt="Telegram Link" width='17.5%' align="left"  src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/telegram_light.png"></picture>](https://t.me/michaels2023)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/telegram_dark.png"><img alt="Telegram Link" width='10%' align="left"  src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/telegram_light.png"></picture>](https://t.me/michaels2023)
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/medium_dark.png"><img alt="Medium Link" width='17.5%' src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/medium_light.png"></picture>](https://medium.com/@michael_47027)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/medium_dark.png"><img alt="Medium Link" width='10%' src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/medium_light.png"></picture>](https://medium.com/@michael_47027)
+   
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/we_dark.png"><img alt="About As" width='10%' align="left" src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/we_light.png"></picture>
 
+# 
+
 <h1>About Us</h1><br/>
-<br/> 
 
 **We are Svetek IT Experts, international team located in USA. Non-custodial staking provider for proof-of-stake networks. Our aim is to provide the highest quality of service. Monitoring 24/7 secure and reliable. We are supporting projects from early stages and helping them to achieve their goals. Writing guides,articles and daily news for our community.**
 
@@ -29,7 +35,6 @@
 #
  
 <h1>Our Tech Stack</h1><br/>
-<br/> 
 
 `Infrastructure as code:` **Terraform, Ansible**  
 `Backend:` **Go, Python, Node.JS, JAVA**  
