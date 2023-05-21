@@ -1,5 +1,5 @@
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/header_dark.gif"><img alt="Medium Link" width=70% src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/header_light.gif">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/dark/header_dark.gif"><img alt="Medium Link" width=100% src="https://raw.githubusercontent.com/Artur-Sg/.github/main/profile/images/light/header_light.gif">
   </picture>
  </p>
  
