@@ -5,7 +5,7 @@
  
  #
  
-<h1 align="center">We are Svetek</h1>
+<h1 align="center">We are Svetek IT Experts</h1>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/transparent_dark.png"><img alt="" width='10%' align="left" src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/transparent_light.png"></picture>
 
