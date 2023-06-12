@@ -51,7 +51,7 @@
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/cardano_dark.png"><img align="left" alt='cardano' width='23%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/cardano_light.png"></picture>](https://cexplorer.io/pool/pool1q6lzp5x6tqg04chsxakupgq6x829nsx2dk5w8h043fnajm8d3uj)
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/axelar_dark.png"><img alt='axelar' width='23%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/axelar_light.png"></picture>](https://www.axelarscan.io/validator/axelarvaloper1vrp9yum9pkdc4dr0n8c47trtx8hwwq8j3wxn5e)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/axelar_dark.png"><img alt='axelar' width='23%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/axelar_light.png"></picture>
 ___
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/testnet_dark.png"><img alt="Testnets" src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/testnet_light.png"></picture>
@@ -68,6 +68,6 @@ ___
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/lava_dark.png"><img alt='lava' align="left" width='23%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/lava_light.png"></picture>](https://bd.lavanet.xyz/validators/lava@valoper1q7jyftyahuf66jefc36254rldk6je9xkaaseh4)
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/axelar_dark.png"><img alt='axelar' align="left" width='23%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/axelar_light.png"></picture>](https://testnet.axelarscan.io/validator/axelarvaloper1gjgvkdnjdm66d2jg7j278w5mmwrje0zwezq6u0)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/axelar_dark.png"><img alt='axelar' align="left" width='23%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/axelar_light.png"></picture>](https://testnet.axelarscan.io/validator/axelarvaloper1xa34peh03j2mtm3jlwdyy9kx6npac3n0v3432u)
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/nibiru_dark.png"><img alt='axelar' align="left" width='23%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/nibiru_light.png"></picture>](https://nibiru.explorers.guru/validator/nibivaloper1f20ayh6pr2yw4g9n9mr76acmj8cxv3jeeurwsc)
