@@ -60,7 +60,7 @@ ___
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/masa_dark.png"><img alt='masa' align="left" width='23%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/masa_light.png"></picture>
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/islamic_coin_dark.png"><img alt='islamic coin' align="left" width='23%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/islamic_coin_light.png"></picture>](https://pingpub.explorer.testedge2.haqq.network/haqq/staking/haqqvaloper1vzqw946xv3lgsvdyw08pkgkqhuennjv48rqdev)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/islamic_coin_dark.png"><img alt='islamic coin' align="left" width='23%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/islamic_coin_light.png"></picture>](https://testnet.ping.pub/haqq/staking/haqqvaloper1vzqw946xv3lgsvdyw08pkgkqhuennjv48rqdev)
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/celestia_dark.png"><img alt='celestia' align="left" width='23%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/celestia_light.png"></picture>
 
