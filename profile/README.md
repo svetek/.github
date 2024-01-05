@@ -75,6 +75,9 @@
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/mantra_dark.png"><img alt='mantra' align="left" width='22%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/mantra_light.png"></picture>](https://explorer.testnet.mantrachain.io/mantrachain/validators/mantravaloper1srul3v67t2szqc89me77e0xeagzxua2xzacpv9)
 
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/cascadia_dark.png"><img alt='cascadia' align="left" width='22%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/cascadia_light.png"></picture>](https://validator.cascadia.foundation/validators/cascadiavaloper1l5c34aap2p5rrvqyemhf03v0ztn0d8l39c05m6)
+
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/evmos_dark.png"><img alt='evmos' align="left" width='22%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/evmos_light.png"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/massa_dark.png"><img alt='massa' align="left" width='22%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/massa_light.png"></picture>
