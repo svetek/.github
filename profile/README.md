@@ -59,6 +59,10 @@
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/canto_dark.png"><img alt='canto' align="left" width='22%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/canto_light.png"></picture>](https://www.mintscan.io/canto/validators/cantovaloper1cr7ulf0lwhgy7rdfvt08mg4w5hft2zggg5guwg)
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/juno_dark.png"><img alt='juno' align="left" width='22%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/juno_light.png"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/pathfinder_dark.png"><img alt='pathfinder' align="left" width='22%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/pathfinder_light.png"></picture>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/testnet_dark.png"><img alt="Testnets" src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/testnet_light.png"></picture>
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/lava_dark.png"><img alt='lava' align="left" width='22%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/lava_light.png"></picture>](https://bd.lavanet.xyz/validators/lava@valoper1q7jyftyahuf66jefc36254rldk6je9xkaaseh4)
