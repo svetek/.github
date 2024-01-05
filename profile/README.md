@@ -73,6 +73,10 @@
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/nibiru_dark.png"><img alt='nibiru' align="left" width='22%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/nibiru_light.png"></picture>](https://nibiru.explorers.guru/validator/nibivaloper1f20ayh6pr2yw4g9n9mr76acmj8cxv3jeeurwsc)
 
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/mantra_dark.png"><img alt='mantra' align="left" width='22%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/mantra_light.png"></picture>](https://explorer.testnet.mantrachain.io/mantrachain/validators/mantravaloper1srul3v67t2szqc89me77e0xeagzxua2xzacpv9)
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/evmos_dark.png"><img alt='evmos' align="left" width='22%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/evmos_light.png"></picture>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/massa_dark.png"><img alt='massa' align="left" width='22%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/massa_light.png"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/masa_dark.png"><img alt='masa' align="left" width='22%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/masa_light.png"></picture>
