@@ -11,7 +11,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/transparent_dark.png"><img alt="" width='10%' align="left" src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/transparent_light.png"></picture>
   
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/web_dark.png"><img alt="website" width='10%' align="left"  src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/web_light.png"></picture>](https://adaimpulse.club/)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/web_dark.png"><img alt="website" width='10%' align="left"  src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/web_light.png"></picture>](https://impulse.expert)
  
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/mail_dark.png"><img alt="mail" align="left" width='10%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/mail_light.png"></picture>](mailto:crypto@svetek.com)
 
@@ -77,6 +77,7 @@
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/cascadia_dark.png"><img alt='cascadia' align="left" width='22%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/cascadia_light.png"></picture>](https://validator.cascadia.foundation/validators/cascadiavaloper1l5c34aap2p5rrvqyemhf03v0ztn0d8l39c05m6)
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/artela_dark.png"><img alt='artela' align="left" width='22%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/artela_light.png"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/evmos_dark.png"><img alt='evmos' align="left" width='22%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/evmos_light.png"></picture>
 
