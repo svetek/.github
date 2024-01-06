@@ -63,6 +63,8 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/pathfinder_dark.png"><img alt='pathfinder' align="left" width='22%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/pathfinder_light.png"></picture>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/massa_dark.png"><img alt='massa' align="left" width='22%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/massa_light.png"></picture>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/testnet_dark.png"><img alt="Testnets" src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/testnet_light.png"></picture>
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/lava_dark.png"><img alt='lava' align="left" width='22%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/lava_light.png"></picture>](https://bd.lavanet.xyz/validators/lava@valoper1q7jyftyahuf66jefc36254rldk6je9xkaaseh4)
@@ -80,7 +82,5 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/artela_dark.png"><img alt='artela' align="left" width='22%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/artela_light.png"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/evmos_dark.png"><img alt='evmos' align="left" width='22%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/evmos_light.png"></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/massa_dark.png"><img alt='massa' align="left" width='22%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/massa_light.png"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/masa_dark.png"><img alt='masa' align="left" width='22%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/masa_light.png"></picture>
